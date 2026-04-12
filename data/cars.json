@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2022,
+    "price": 28500.0,
+    "category": "SUV",
+    "color": "Silver",
+    "mileage": 21500,
+    "available": true,
+    "description": "Fuel-efficient compact SUV with a clean service record."
+  },
+  {
+    "id": 2,
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2021,
+    "price": 21990.0,
+    "category": "Sedan",
+    "color": "Blue",
+    "mileage": 30200,
+    "available": true,
+    "description": "Reliable sedan with lane assist and a reverse camera."
+  },
+  {
+    "id": 3,
+    "make": "Ford",
+    "model": "Ranger",
+    "year": 2020,
+    "price": 31850.0,
+    "category": "Truck",
+    "color": "Black",
+    "mileage": 41200,
+    "available": false,
+    "description": "Double-cab pickup currently reserved by a buyer."
+  }
+]
