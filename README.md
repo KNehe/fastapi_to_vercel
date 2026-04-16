@@ -1,5 +1,7 @@
 # FastAPI to Vercel
 
+> Video tutorial: [Watch on YouTube](https://youtu.be/pBkOTCK76k8?si=-gopbeavt24g3RZ3)
+
 This project is a small FastAPI API that uses `uv` for project management and stores its car inventory in a local JSON file instead of a database server.
 
 ## What the API does
